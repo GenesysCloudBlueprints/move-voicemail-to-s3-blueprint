@@ -1,0 +1,17 @@
+{
+  "name": "moveVoicemailToS3Lambda",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "deployLambda": "./deployLambda.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.58.0",
+    "@aws-sdk/client-secrets-manager": "^3.54.1",
+    "axios": "^0.26.1",
+    "purecloud-platform-client-v2": "^132.0.0"
+  }
+}
