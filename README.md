@@ -1,5 +1,10 @@
 # MoveVoicemailToS3
 
+## Note
+
+This blueprint is incomplete and not being actively maintained. As a result, Genesys will be archiving this repository.  
+
+
 ## Motivation
 Occasionally we run into situations where an oauth client needs a user context in order to function correctly.  In such
 cases, a [Client Credential Oauth Grant](https://developer.genesys.cloud/authorization/platform-auth/use-client-credentials) 
