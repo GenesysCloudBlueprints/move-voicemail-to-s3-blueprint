@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aws-sdk/client-secrets-manager": "^3.54.1",
+    "@aws-sdk/client-secrets-manager": "^3.1152.0",
     "purecloud-platform-client-v2": "^132.0.0"
   }
 }
